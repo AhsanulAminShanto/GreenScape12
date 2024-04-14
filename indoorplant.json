@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Spider Plant",
+        "soil_type": "Sandy Soil",
+        "light_mode": "Medium",
+        "light_time": 8
+    },
+    {
+        "name": "Peace Lily",
+        "soil_type": "Loamy Soil",
+        "light_mode": "Low",
+        "light_time": 6
+    },
+    {
+        "name": "Snake Plant",
+        "soil_type": "Clay Soil",
+        "light_mode": "Low",
+        "light_time": 4
+    }
+]
+
+  
